@@ -27,3 +27,17 @@ color: chocolate;
 .krogstad{
 color:blue;
 }
+
+table{
+    border:2cm solid brown;
+    color: blue;
+    text-align: end;
+    padding:3cm;
+    margin: 4px; ;
+}
+
+
+tr:nth-child(odd){
+color:green;
+}
+
