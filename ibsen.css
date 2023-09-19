@@ -1,0 +1,29 @@
+.speech{
+    font: 100;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+
+}
+
+.direction{
+    font: 150;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size : medium;
+    color : black;
+    background-color: lightblue;
+}
+.name{
+
+}
+
+.direction:hover{
+    background-color:aquamarine ;
+    color:blueviolet ;
+}
+.mrslinde{
+color: chocolate;
+}
+.krogstad{
+color:blue;
+}
