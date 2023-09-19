@@ -13,7 +13,9 @@
     color : black;
     background-color: lightblue;
 }
-.name{
+.name:hover{
+    color:aliceblue;
+    text-shadow: 2px 3px 4px red;
 
 }
 
